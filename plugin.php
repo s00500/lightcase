@@ -155,3 +155,5 @@ if( !class_exists( 'Lightcase_Lightbox' ) ) {
 			
 			return apply_filters( 'oembed_result', $embed, $url);
 		}
+	}
+}
