@@ -7,11 +7,7 @@ Installation Instructions:
 
 1. Activate the Plugin
 
-How to use this Plugin for Images:
-
-1. Create a Gallery using the Media Manager
-2. Insert an Image into a Post
-3. Paste an image URL and let our oEmbed do the work (regular image urls and imgur.com).
+The Plugin will automatically be active on all gallerys and on all posts and pages, automatically grouping the images together.
 
 Custom Styling for Images:
 
