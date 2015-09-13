@@ -103,7 +103,7 @@ if( !class_exists( 'Lightcase_Lightbox' ) ) {
 		*/
 		function scripts() {
 			wp_enqueue_script( 'lightcase_js', plugins_url( 'js/lightcase.min.js', __FILE__ ), array( 'jquery' ), '1.0', false );
-			
+			wp_enqueue_script( 'lightcase_js_touch', plugins_url( 'js/jquery.events.touch.js', __FILE__ ), array( 'jquery' ), '1.0', false );
 		}
 		
 		/**
